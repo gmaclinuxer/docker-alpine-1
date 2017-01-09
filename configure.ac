@@ -46,6 +46,7 @@ AC_CONFIG_FILES([
     alpine-build-maven/Makefile
     alpine-build-npm/Makefile
     alpine-awscli/Makefile
+    alpine-chronograf/Makefile
     alpine-consul/Makefile
     alpine-dnsmasq/Makefile
     alpine-dockercompose/Makefile
@@ -55,6 +56,7 @@ AC_CONFIG_FILES([
     alpine-fabric/Makefile
     alpine-haproxy/Makefile
     alpine-hostapd/Makefile
+    alpine-influxdb/Makefile
     alpine-java/Makefile
     alpine-jenkins/Makefile
     alpine-jetty/Makefile

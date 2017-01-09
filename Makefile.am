@@ -8,6 +8,7 @@ SUBDIRS = \
     alpine-build-maven \
     alpine-build-npm \
     alpine-awscli \
+    alpine-chronograf \
     alpine-consul \
     alpine-dnsmasq \
     alpine-dockercompose \
@@ -17,6 +18,7 @@ SUBDIRS = \
     alpine-fabric \
     alpine-haproxy \
     alpine-hostapd \
+    alpine-influxdb \
     alpine-java \
     alpine-jenkins \
     alpine-jetty \
